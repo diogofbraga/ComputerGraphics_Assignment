@@ -1,2 +1,3 @@
 # ComputerGraphics_Assignment-
-Assignment for Computer Graphics class
+
+Solar System Model in C++ (using OpenGL) 
